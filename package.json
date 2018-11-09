@@ -1,0 +1,18 @@
+{
+  "name": "start-webpack4",
+  "version": "1.0.0",
+  "description": "webpack4 learning",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack --config webpack.config.js"
+  },
+  "keywords": [
+    "webpack4"
+  ],
+  "author": "DengXianyu",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.25.1",
+    "webpack-cli": "^3.1.2"
+  }
+}
